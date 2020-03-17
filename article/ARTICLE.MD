@@ -18,7 +18,7 @@ Swagger is a documentation tool for APIs. You have your endpoints like `/users/s
 
 Swagger is used for several programming languages, you can find it for PHP, Java, Javascript, Go, Python etc.
 
-![Snapshot on Swagger UI](swaggerui.png)
+![Snapshot on Swagger UI](swaggerui.PNG)
 
 ## Libraries, specifications and names
 
